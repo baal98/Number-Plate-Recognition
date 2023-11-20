@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Number Plates Recognition": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
